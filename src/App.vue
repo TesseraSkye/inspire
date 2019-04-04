@@ -64,6 +64,7 @@ export default {
   z-index: -10;
 }
 
+/* bulk commands */
 .text-shadow-sm {
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.75);
 }
